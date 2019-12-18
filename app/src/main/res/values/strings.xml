@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bottomNavAct</string>
+    <string name="title_note">Note</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_analysis">Analysis</string>
+    <string name="recv">RECEIVE </string>
+    <string name="borrow">BORROW</string>
+    <string name="lend">LEND</string>
+    <string name="pay">PAY</string>
+</resources>
